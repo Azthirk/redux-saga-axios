@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `REACT_APP_API_BASE_URL`
+To change the URL of the api, you must modify the environment variable of the .env file (REACT_APP_API_BASE_URL), in case you do not have the .env file, create one and place the variable REACT_APP_API_BASE_URL="URLname"
+
 ### `npm start`
 
 Runs the app in the development mode.\
